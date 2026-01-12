@@ -12,3 +12,5 @@ Also, I've used FL Studio to create the basic notes of the progressions, melody 
 I've declared each variable in the song and created mutiple arrays with the notes based of the Fl Studio project, which to be fair facilitated a lot of the development. Some parts/instruments may be missing since I couldn't develop all of them, used a base Piano, Lead and Some Drums.
 
 Hope you enjoy it, feel free to improve it!!
+
+POST EDIT - Don't forget to change the paths in which the files are created or directioned, if they stay the same it won't work!!
